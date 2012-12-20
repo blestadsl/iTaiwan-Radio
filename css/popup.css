@@ -1,0 +1,11 @@
+﻿body { font-size: 62.5%; font-family: "Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif; }
+fieldset { border: 0; margin: 0em; height: 0em; }
+label { font-weight: normal; float: left; margin-right: .5em; font-size: 1.1em; }
+select { margin-right: 1em; float: left; }
+.ui-slider { clear: both; top: 5em; }
+
+
+/*demo styles*/
+label, select, .ui-select-menu { float: left; margin-right: 10px; }
+select { width: 190px; }
+.ui-selectmenu-menu li a, .ui-selectmenu-status { padding: 0.3em 0.5em; }
